@@ -3,9 +3,13 @@
 source: https://www.reddit.com/r/Fitness
 
 
-## Diet
-TW - Target Weight *(in pounds)*
-GC - Goal Calorie
+## Calorie / 1 gram of Macro
+- Protein: 4 cal
+- Fat: 9 cal
+- Alcohol: 7 cal
+
+## Macro Goals
+`TW` - Target Weight *(in pounds)*, `GC` - Goal Calorie
 
 - Protein
   - Min: (0.8 x TW) grams
