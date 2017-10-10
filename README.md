@@ -4,9 +4,9 @@ source: https://www.reddit.com/r/Fitness
 
 
 ## Calorie / 1 gram of Macro
-- Protein: 4 cal
-- Fat: 9 cal
-- Alcohol: 7 cal
+- Protein: ~4 cal
+- Fat: ~9 cal
+- Alcohol: ~7 cal
 
 ## Macro Goals
 `TW` - Target Weight *(in pounds)*, `GC` - Goal Calorie
