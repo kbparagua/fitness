@@ -35,5 +35,5 @@ source: https://www.reddit.com/r/Fitness
   - Example: Crunches + Squats
   
 sources:
-http://www.mensfitness.com/training/pro-tips/7-things-youre-doing-after-gym-are-wrecking-your-body
-https://www.t-nation.com/training/making-sense-of-supersets
+- http://www.mensfitness.com/training/pro-tips/7-things-youre-doing-after-gym-are-wrecking-your-body
+- https://www.t-nation.com/training/making-sense-of-supersets
