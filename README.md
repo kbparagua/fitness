@@ -26,8 +26,6 @@ source: https://www.reddit.com/r/Fitness
 
 ## Superset
 
-http://www.mensfitness.com/training/pro-tips/7-things-youre-doing-after-gym-are-wrecking-your-body
-
 - Sets of 2 different exercise back to back.
 - 2 different muscle groups.
 - Minimal to no rest in between 2 exercises.
@@ -36,3 +34,6 @@ http://www.mensfitness.com/training/pro-tips/7-things-youre-doing-after-gym-are-
   - Support muscle will be fatigued to properly support main muscle exercise.
   - Example: Crunches + Squats
   
+sources:
+http://www.mensfitness.com/training/pro-tips/7-things-youre-doing-after-gym-are-wrecking-your-body
+https://www.t-nation.com/training/making-sense-of-supersets
