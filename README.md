@@ -23,3 +23,7 @@ source: https://www.reddit.com/r/Fitness
   = (GC - ((P x 4) + (F x9)) / 4
   - `P` - Protein goal
   - `F` - Fat goal
+
+## Superset
+
+Performing sets of two different exercises for two different muscle group back to back without or with minimal rest.
