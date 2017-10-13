@@ -31,7 +31,7 @@ http://www.mensfitness.com/training/pro-tips/7-things-youre-doing-after-gym-are-
 Performing sets of two different exercises for two different muscle group back to back without or with minimal rest.
 
 - Commonly used for antagonistic muscles *(opposing muscle groups: chest/back, biceps/triceps, etc...)*
-- Do not use with support muscle exercise + main muscle exercise.
+- Do not use with `support muscle exercise` + `main muscle exercise`.
   -  Support muscle will be fatigued to properly support main muscle exercise.
   - Example: Crunches + Squats
   
