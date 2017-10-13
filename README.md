@@ -26,4 +26,8 @@ source: https://www.reddit.com/r/Fitness
 
 ## Superset
 
+http://www.mensfitness.com/training/pro-tips/7-things-youre-doing-after-gym-are-wrecking-your-body
+
 Performing sets of two different exercises for two different muscle group back to back without or with minimal rest.
+
+- Commonly used for antagonistic muscles *(opposing muscle groups: chest/back, biceps/triceps, etc...)*
